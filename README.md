@@ -1,1 +1,1 @@
-# Bright_tv_case_study
+Analyzing user profile and viewership
